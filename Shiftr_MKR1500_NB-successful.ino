@@ -13,9 +13,9 @@
 #include <MQTT.h>
 
 const char pin[]      = "";
-const char apn[]      = "iot.nb";
-const char login[]    = "login";
-const char password[] = "password";
+const char apn[]      = "wireless.twilio.com";
+const char login[]    = "";
+const char password[] = "";
 
 NBClient net;
 GPRS gprs;
